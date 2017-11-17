@@ -1,0 +1,28 @@
+
+nav {
+  height: 70px;
+  font-family: 'Cambo', serif;
+  background-color: #708090;
+  color: #FFFFFF;
+}
+.nav-link {
+  color: #FFFFFF;
+}
+
+.jumbotron {
+  margin-top: 30px;
+  color: #2c3e50;
+}
+
+img {
+  margin-bottom: 20px;
+}
+
+footer {
+background-color: #708090;
+height: 70px;
+width: 100%;
+margin-top: 10px;
+text-align: center;
+color: #FFFFFF;
+}
